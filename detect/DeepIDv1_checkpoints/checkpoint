@@ -1,6 +1,0 @@
-model_checkpoint_path: "./model.ckpt-30000"
-all_model_checkpoint_paths: "/home/weihua/models/research/slim/polar_skeleton-models/deepID_v1/model.ckpt-27627"
-all_model_checkpoint_paths: "/home/weihua/models/research/slim/polar_skeleton-models/deepID_v1/model.ckpt-28270"
-all_model_checkpoint_paths: "/home/weihua/models/research/slim/polar_skeleton-models/deepID_v1/model.ckpt-28921"
-all_model_checkpoint_paths: "/home/weihua/models/research/slim/polar_skeleton-models/deepID_v1/model.ckpt-29496"
-all_model_checkpoint_paths: "/home/weihua/models/research/slim/polar_skeleton-models/deepID_v1/model.ckpt-30000"
